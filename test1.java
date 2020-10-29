@@ -1,7 +1,7 @@
 import java.util.Random;
-import java.util.*;
 
 public static void main()
 {
+     System.out.println( "Hello world\n" );
 }
 
